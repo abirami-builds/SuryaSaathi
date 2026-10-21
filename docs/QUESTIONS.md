@@ -1,16 +1,21 @@
 # 10 real questions my user will ask
 
-Write them the way your user would type them. At least 3 must need more than one page to answer, and at least 1 must be a question your documents cannot answer.
+1. What central subsidy may apply to a 3 kW residential rooftop solar system?
 
-| # | Question | Where the answer is (document, page) | Needs more than one page? |
-|---|---|---|---|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | (cannot be answered from my documents) | none | |
+2. What are the eligibility requirements under the PM Surya Ghar scheme?
+
+3. What does DCR mean in rooftop solar subsidy guidelines?
+
+4. What is IEC 61215, and where is it referenced in the technical documents?
+
+5. What is ALMM List-II, and when is it applicable?
+
+6. What are the requirements for rooftop solar net metering in Tamil Nadu?
+
+7. How can a homeowner apply for a net meter?
+
+8. What factors affect the savings from a rooftop solar installation?
+
+9. Which official order specifies a particular technical or regulatory requirement?
+
+10. How can a user identify the applicable rule when two documents provide different or updated information?
