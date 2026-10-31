@@ -18,4 +18,4 @@
 
 9. Which official order specifies a particular technical or regulatory requirement?
 
-10. How can a user identify the applicable rule when two documents provide different or updated information?
+10. If two official documents provide conflicting information and neither document clearly identifies which rule is currently applicable, how can a homeowner determine which requirement to follow?
